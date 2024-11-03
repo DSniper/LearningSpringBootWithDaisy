@@ -16,18 +16,3 @@ public class DemoApplication {
 }
 
 
-/*
-	MVC Design Pattern == Don't Do Everything in Single Class. Create Functions for Better Code Evolution and Handling
-	M -> Model
-	V -> View
-	C -> Controller  (Entry Point og Request in Your MicroService)
-
-	API -- In Layman Terms API is an Contract or A Function which accepts a defined Input in Contracted Format
-	Hence Called Application Programmable Interface
-
-	Good Practices in REST API's
-	Representational State Transfer Application Programming Interface
-	Guidelines for Rest API's
-	~ API Should be Structured Around Resources
-
-*/
